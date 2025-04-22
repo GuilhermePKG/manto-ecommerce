@@ -1,0 +1,62 @@
+[
+    {
+        "nome": "guilherme",
+        "email": "jhoncoc120@gmail.com",
+        "senha": "$2y$10$TAtKYXsD7LgLxQb4auJ1Q.Qsf3nNzuP8B9dgTD0Y\/bovR1UWzE5ne",
+        "telefone": "81993309695",
+        "cep": "50640-370",
+        "logradouro": "",
+        "numero": "445",
+        "bairro": "",
+        "cidade": "",
+        "estado": ""
+    },
+    {
+        "nome": "ANDREZA DA SILVA",
+        "email": "andreza_bebidas@hotmail.com",
+        "senha": "$2y$10$bir8stwR23UuSJ1cO4CgC.dXFncOQjgKhKsHavA1KhrA0mMwyzSnS",
+        "telefone": "122334455",
+        "cep": "50640-370",
+        "logradouro": "",
+        "numero": "333",
+        "bairro": "",
+        "cidade": "",
+        "estado": ""
+    },
+    {
+        "nome": "JOSE ALBERTO XAVIER DE OLIVEIRA JUNIOR",
+        "email": "jhoncoc120@gmail.com",
+        "senha": "$2y$10$gVxh\/483I.QptLrST0A\/TO9lypFEczOrRBe3s52GB33O1gZgjvEma",
+        "telefone": "81993309695",
+        "cep": "50640-370",
+        "logradouro": "Rua Porto Lucena",
+        "numero": "123",
+        "bairro": "Torr\u00f5es",
+        "cidade": "Recife",
+        "estado": "PE"
+    },
+    {
+        "nome": "JOSE ALBERTO XAVIER DE OLIVEIRA JUNIOR",
+        "email": "jhoncoc120@gmail.com",
+        "senha": "$2y$10$iVspheawXNgDNLl4oKBdvuVUwfncUuYllTHjMokxFL8JSrob1alSW",
+        "telefone": "81993309695",
+        "cep": "50640-370",
+        "logradouro": "Rua Porto Lucena",
+        "numero": "111",
+        "bairro": "Torr\u00f5es",
+        "cidade": "Recife",
+        "estado": "PE"
+    },
+    {
+        "nome": "vania barbosa",
+        "email": "hidratec@hidratecdeca.com",
+        "senha": "$2y$10$lMTZmoD\/xCpm5oe6SuAdle93DIsMbSQrCwufEE.zGG4\/UzDGkfWaa",
+        "telefone": "81999719485",
+        "cep": "50020150",
+        "logradouro": "Rua S\u00e3o Jo\u00e3o",
+        "numero": "367",
+        "bairro": "S\u00e3o Jos\u00e9",
+        "cidade": "Recife",
+        "estado": "PE"
+    }
+]
